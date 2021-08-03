@@ -821,4 +821,4 @@ client.on('messageReactionAdd', (reaction, user) => {
     }
 })
 
-client.login('ODI3Njg0OTUyOTYzMTUzOTkw.YGenrg.mgLceWosCDLiyZQH9eRPWxnbKoU');
+client.login('');
